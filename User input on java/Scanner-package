@@ -1,0 +1,19 @@
+Scanner class hav many function to take user input given below...
+==================================================================================
+1.nextint()
+2.nextFloat()
+3.nextDouble()
+4.next()
+5.nextLine()
+6.nextByte()
+7.nextShort()
+8.nextLong()
+=================     ====================       ==================================
+
+second way to take user input
+============================================
+1.java.io.BufferedReader;
+2.try,catch
+3.reader.readLine();
+
+
